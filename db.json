@@ -1,6 +1,6 @@
 {
-  name: "Soumya Banerjee",
-  position: "Frontend Developer",
-  image: "https://soumya495.github.io/Soumya-Portfolio/images/profile-image.jpg",
-  description: "Dev guy and student"
+	"name": "Soumya Banerjee",
+	"position": "Frontend Developer",
+	"image": "https://soumya495.github.io/Soumya-Portfolio/images/profile-image.jpg",
+	"description": "Dev guy and student"
 }
